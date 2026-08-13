@@ -12,7 +12,11 @@ The project uses **ASP.NET Core Web API + MongoDB** for the backend and **React 
 
 ### 🌐 Frontend
 
-![Admin Deshbord]<img width="2848" height="1538" alt="Admin" src="https://github.com/user-attachments/assets/47223bcb-1bb3-4b3c-ac6f-328bfb6d7d56" />
+![Admin Dashboard]<img width="2848" height="1538" alt="Admin" src="https://github.com/user-attachments/assets/47223bcb-1bb3-4b3c-ac6f-328bfb6d7d56" />
+
+![Teacher Dashboard]<img width="2854" height="1532" alt="Teacher" src="https://github.com/user-attachments/assets/395c8622-e630-43fb-ad97-244baab72674" />
+
+![Student Dashboard]<img width="2858" height="1542" alt="Student" src="https://github.com/user-attachments/assets/f89ff173-6ad5-4b38-b128-f75c39912949" />
 
 " />
 

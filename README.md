@@ -8,6 +8,8 @@ The project uses **ASP.NET Core Web API + MongoDB** for the backend and **React 
 
 ---
 
+![Home]<img width="2856" height="1540" alt="image" src="https://github.com/user-attachments/assets/512aaaef-d93b-4031-813e-556b01448c29" />
+
 ## 📌 Project Overview
 
 The Assignment Management System provides a centralized platform for managing the complete academic assignment lifecycle.
